@@ -1,4 +1,5 @@
 # Reading List
+Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-reading-list-on-github/) [list](https://github.com/coryschires/reading-list), as he learned about it from the [Apprenticeship Patterns](http://www.amazon.com/dp/0596518382) book!
 
 ## Up Coming
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
