@@ -119,7 +119,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Wishful Thinking
 **[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
 
-**[Programming Collective Intelligence: Building Smart Web 2.0 Applications(http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
+**[Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
 
 **[Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6)** Casey Reas, Ben Fry
 
