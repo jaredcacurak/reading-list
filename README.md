@@ -4,6 +4,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Up Coming
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
 
+**[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
+
 ## Ongoing
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
@@ -115,15 +117,25 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
 ## Wishful Thinking
+**[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
+
+**[Programming Collective Intelligence: Building Smart Web 2.0 Applications(http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
+
+**[Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6)** Casey Reas, Ben Fry
+
 **[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
 **[Learn Python The Hard Way](http://learnpythonthehardway.org/)** Zed Shaw, Greg Newman
+
+**[Atlas Shrugged](http://www.amazon.com/gp/product/B003V8B5XO)** Ayn Rand
 
 **[C Programming Language](http://www.amazon.com/gp/product/0131103628)** Brian W. Kernighan, Dennis M. Ritchie
 
 **[Programming Android](http://www.amazon.com/gp/product/1449389694)** Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
 
 **[Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/gp/product/1430219483)** Peter Seibel
+
+**[Algorithms in a Nutshell](http://www.amazon.com/gp/product/059651624X)** George T. Heineman, Gary Pollice, Stanley Selkow
 
 **[The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/gp/product/0201835959)** Frederick P. Brooks
 
