@@ -116,6 +116,23 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
+## Videos
+**[Neal Ford on Agile Engineering Practices](http://shop.oreilly.com/product/0636920020271.do)**
+
+**[An Introduction to MapReduce with Pete Warden](http://shop.oreilly.com/product/0636920020226.do)**
+
+**[Hilary Mason: An Introduction to Machine Learning with Web Data](http://shop.oreilly.com/product/0636920017493.do)**
+
+**[McCullough and Berglund on Mastering Git](http://shop.oreilly.com/product/0636920017462.do)**
+
+**[Douglas Crockford JavaScript Master Class](http://shop.oreilly.com/product/9780596809614.do)**
+
+**[Test Driven Development](http://pragprog.com/screencasts/v-kbtdd/test-driven-development)** Kent Beck
+
+**[Insider Guide to GitHub](http://pragprog.com/screencasts/v-scgithub/insider-guide-to-github)** Scott Chacon
+
+**[Source Control Made Eas]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
+
 ## Wishful Thinking
 **[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
 
@@ -130,6 +147,10 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Atlas Shrugged](http://www.amazon.com/gp/product/B003V8B5XO)** Ayn Rand
 
 **[C Programming Language](http://www.amazon.com/gp/product/0131103628)** Brian W. Kernighan, Dennis M. Ritchie
+
+**[Processing and Arduino in Tandem: Audio Visualizer](http://shop.oreilly.com/product/0636920018377.do)** Joseph Gray
+
+**[Processing and Arduino in Tandem: Creating Your Own Digital Art Tools](http://shop.oreilly.com/product/0636920013310.do)** Joseph Gray
 
 **[Programming Android](http://www.amazon.com/gp/product/1449389694)** Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura
 
