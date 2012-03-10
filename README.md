@@ -84,6 +84,26 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Ender's Game](http://www.amazon.com/gp/product/B003G4W49C)** Orson Scott Card
 
+**[So Long, and Thanks for All the Fish](http://www.amazon.com/gp/product/B001OF5F1E)** Douglas Adams
+
+**[The Alchemist](http://www.amazon.com/gp/product/B000FCKC4C)** Paulo Coelho
+
+**[Life, the Universe and Everything](http://www.amazon.com/gp/product/B001ODEQ7A)**  Douglas Adams
+
+**[The Restaurant at the End of the Universe](http://www.amazon.com/gp/product/B001ODEQCU)** Douglas Adams
+
+**[Anthem](http://www.amazon.com/gp/product/0452281253)** Ayn Rand
+
+**[The Hitchhiker's Guide to the Galaxy](http://www.amazon.com/gp/product/1400052939)** Douglas Adams
+
+**[The 80/20 Principle: The Secret to Achieving More with Less](http://www.amazon.com/gp/product/0385491743)** Richard Koch
+
+**[The 7 Habits of Highly Effective People](http://www.amazon.com/gp/product/0743269519)** Stephen R. Covey
+
+**[The Last Lecture](http://www.amazon.com/gp/product/1401323251)** Randy Pausch, Jeffrey Zaslow
+
+**[The 4-Hour Work Week](http://www.amazon.com/gp/product/B002WE46UW)** Timothy Ferriss
+
 **[Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel](http://www.amazon.com/gp/product/B000FBFMKM)** Rolf Potts
 
 **[Working Effectively with Legacy Code](http://www.amazon.com/gp/product/B005OYHF0A)** Michael Feathers
