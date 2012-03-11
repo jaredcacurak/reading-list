@@ -123,6 +123,20 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Hilary Mason: An Introduction to Machine Learning with Web Data](http://shop.oreilly.com/product/0636920017493.do)**
 
+**[Clean Code Episode VII - Architecture, Use Cases, and High Level Design](http://www.cleancoders.com/codecast/clean-code-episode-7/show)**
+
+**[Clean Code, Episode V - Form](http://www.cleancoders.com/codecast/clean-code-episode-5/show)**
+
+**[Clean Code, Episode IV - Function Structure](http://www.cleancoders.com/codecast/clean-code-episode-4/show)**
+
+**[The Last Programming Language](http://www.cleancoders.com/codecast/theLastProgrammingLanguage/show)** Robert C. Martin
+
+**[Clean Code, Episode III - Functions](http://www.cleancoders.com/codecast/clean-code-episode-3/show)**
+
+**[Clean Code, Episode II - Names++](http://www.cleancoders.com/codecast/clean-code-episode-2/show)**
+
+**[Clean Code, Episode I](http://www.cleancoders.com/codecast/clean-code-episode-1/show)**
+
 **[McCullough and Berglund on Mastering Git](http://shop.oreilly.com/product/0636920017462.do)**
 
 **[Douglas Crockford JavaScript Master Class](http://shop.oreilly.com/product/9780596809614.do)**
