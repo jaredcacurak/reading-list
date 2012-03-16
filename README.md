@@ -11,9 +11,9 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The Little Book on CoffeeScript](http://www.amazon.com/gp/product/B006ZYZCRQ)** Alex MacCaw
 
+## Books
 **[Childhood's End](http://www.amazon.com/gp/product/0345444051)** Arthur C. Clarke
 
-## Books
 **[Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/gp/product/1594484805)** Daniel H. Pink
 
 **[Rendezvous with Rama](http://www.amazon.com/gp/product/0899684491)** Arthur C. Clarke
