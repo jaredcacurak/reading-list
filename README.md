@@ -7,6 +7,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
 
 ## Ongoing
+**[Snow Crash](http://www.amazon.com/gp/product/B000FBJCJE)** Neal Stephenson
+
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 **[The Little Book on CoffeeScript](http://www.amazon.com/gp/product/B006ZYZCRQ)** Alex MacCaw
