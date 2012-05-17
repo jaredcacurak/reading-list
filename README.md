@@ -7,13 +7,15 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
 
 ## Ongoing
-**[Snow Crash](http://www.amazon.com/gp/product/B000FBJCJE)** Neal Stephenson
+**[Stranger in a Strange Land](http://www.amazon.com/dp/0441788386)** Robert A. Heinlein
 
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 **[The Little Book on CoffeeScript](http://www.amazon.com/gp/product/B006ZYZCRQ)** Alex MacCaw
 
 ## Books
+**[Snow Crash](http://www.amazon.com/gp/product/B000FBJCJE)** Neal Stephenson
+
 **[Childhood's End](http://www.amazon.com/gp/product/0345444051)** Arthur C. Clarke
 
 **[Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/gp/product/1594484805)** Daniel H. Pink
