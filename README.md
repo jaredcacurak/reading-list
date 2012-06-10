@@ -7,6 +7,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
 
 ## Ongoing
+**[The Ubuntu Beginner's Guide](http://www.amazon.com/dp/B004Y1NMDI)** Jonathan Moeller
+
 **[Stranger in a Strange Land](http://www.amazon.com/dp/0441788386)** Robert A. Heinlein
 
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
