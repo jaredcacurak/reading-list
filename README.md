@@ -4,7 +4,9 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Up Coming
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
 
-**[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
+**[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
+
+**[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
 **[The Ubuntu Beginner's Guide](http://www.amazon.com/dp/B004Y1NMDI)** Jonathan Moeller
@@ -122,6 +124,15 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
+## Courses
+**[CS101: Intro to Computer](http://www.udacity.com/overview/Course/cs101/CourseRev/feb2012)** Udacity
+
+**[CS212: Design of Computer Programs](http://www.udacity.com/overview/Course/cs212/CourseRev/apr2012)** Udacity
+
+**[CS253: Web Application Engineering](http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012)** Udacity
+
+**[jQuery Air: First Flight](http://www.codeschool.com/courses/jquery-air-first-flight)** Code School
+
 ## Videos
 **[Neal Ford on Agile Engineering Practices](http://shop.oreilly.com/product/0636920020271.do)**
 
@@ -154,6 +165,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Source Control Made Eas]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
 
 ## Wishful Thinking
+**[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
+
 **[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
 
 **[Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
