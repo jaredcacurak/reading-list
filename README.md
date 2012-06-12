@@ -162,7 +162,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Insider Guide to GitHub](http://pragprog.com/screencasts/v-scgithub/insider-guide-to-github)** Scott Chacon
 
-**[Source Control Made Eas]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
+**[Source Control Made Easy]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
 
 ## Wishful Thinking
 **[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
