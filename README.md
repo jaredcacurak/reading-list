@@ -9,11 +9,13 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
-**[The Ubuntu Beginner's Guide](http://www.amazon.com/dp/B004Y1NMDI)** Jonathan Moeller
+**[Abundance: The Future Is Better Than You Think](http://www.amazon.com/gp/product/1451614217)** Peter H. Diamandis, Steven Kotler
 
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Ubuntu Beginner's Guide](http://www.amazon.com/dp/B004Y1NMDI)** Jonathan Moeller
+
 **[Stranger in a Strange Land](http://www.amazon.com/dp/0441788386)** Robert A. Heinlein
 
 **[The Little Book on CoffeeScript](http://www.amazon.com/gp/product/B006ZYZCRQ)** Alex MacCaw
