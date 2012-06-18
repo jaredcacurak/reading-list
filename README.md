@@ -2,13 +2,15 @@
 Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-reading-list-on-github/) [list](https://github.com/coryschires/reading-list), as he learned about it from the [Apprenticeship Patterns](http://www.amazon.com/dp/0596518382) book!
 
 ## Up Coming
-**[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
+**[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
 **[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
 
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
+
 **[Abundance: The Future Is Better Than You Think](http://www.amazon.com/gp/product/1451614217)** Peter H. Diamandis, Steven Kotler
 
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
@@ -174,8 +176,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
 
 **[Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6)** Casey Reas, Ben Fry
-
-**[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
 **[Learn Python The Hard Way](http://learnpythonthehardway.org/)** Zed Shaw, Greg Newman
 
