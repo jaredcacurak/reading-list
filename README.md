@@ -1,7 +1,7 @@
 # Reading List
 Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-reading-list-on-github/) [list](https://github.com/coryschires/reading-list), as he learned about it from the [Apprenticeship Patterns](http://www.amazon.com/dp/0596518382) book!
 
-## Up Coming
+## Upcoming
 **[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
 **[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
