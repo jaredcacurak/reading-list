@@ -22,6 +22,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The Little Book on CoffeeScript](http://www.amazon.com/gp/product/B006ZYZCRQ)** Alex MacCaw
 
+**[The Passionate Programmer: Creating a Remarkable Career in Software Development](http://pragprog.com/book/cfcar2/the-passionate-programmer)** Chad Fowler
+
 **[Snow Crash](http://www.amazon.com/gp/product/B000FBJCJE)** Neal Stephenson
 
 **[Childhood's End](http://www.amazon.com/gp/product/0345444051)** Arthur C. Clarke
