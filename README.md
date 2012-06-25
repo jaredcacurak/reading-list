@@ -4,11 +4,11 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Upcoming
 **[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
-**[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
-
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
+
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
 
 **[Abundance: The Future Is Better Than You Think](http://www.amazon.com/gp/product/1451614217)** Peter H. Diamandis, Steven Kotler
