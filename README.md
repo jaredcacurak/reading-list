@@ -11,8 +11,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
-**[Neuromancer](http://www.amazon.com/Neuromancer-Ace-Science-Fiction-ebook/dp/B000O76ON6)** William Gibson
-
 **[JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY)** Douglas Crockford
 
 **[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
@@ -20,6 +18,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Neuromancer](http://www.amazon.com/Neuromancer-Ace-Science-Fiction-ebook/dp/B000O76ON6)** William Gibson
+
 **[Abundance: The Future Is Better Than You Think](http://www.amazon.com/gp/product/1451614217)** Peter H. Diamandis, Steven Kotler
 
 **[The Ubuntu Beginner's Guide](http://www.amazon.com/dp/B004Y1NMDI)** Jonathan Moeller
