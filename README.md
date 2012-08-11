@@ -4,7 +4,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Upcoming
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
-**[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
+**[HTML and CSS: Design and Build Websites](http://www.amazon.com/dp/1118008189)** Jon Duckett
 
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
@@ -179,6 +179,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Source Control Made Easy]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
 
 ## Wishful Thinking
+**[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
+
 **[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
 
 **[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
