@@ -4,11 +4,11 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Upcoming
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
-**[HTML and CSS: Design and Build Websites](http://www.amazon.com/dp/1118008189)** Jon Duckett
-
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[HTML and CSS: Design and Build Websites](http://www.amazon.com/dp/1118008189)** Jon Duckett
+
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
 
 **[Kill Decision](http://www.amazon.com/Kill-Decision-ebook/dp/B0073XV2W2)** Daniel Suarez
