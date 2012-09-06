@@ -11,8 +11,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
 
-**[Kill Decision](http://www.amazon.com/Kill-Decision-ebook/dp/B0073XV2W2)** Daniel Suarez
-
 **[JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY)** Douglas Crockford
 
 **[CS215: Algorithms](http://www.udacity.com/overview/Course/cs215/CourseRev/1)** Udacity
@@ -20,6 +18,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Kill Decision](http://www.amazon.com/Kill-Decision-ebook/dp/B0073XV2W2)** Daniel Suarez
+
 **[Neuromancer](http://www.amazon.com/Neuromancer-Ace-Science-Fiction-ebook/dp/B000O76ON6)** William Gibson
 
 **[Abundance: The Future Is Better Than You Think](http://www.amazon.com/gp/product/1451614217)** Peter H. Diamandis, Steven Kotler
