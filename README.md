@@ -6,9 +6,9 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
+## Ongoing
 **[Automate This: How Algorithms Came to Rule Our World](http://www.amazon.com/dp/B0064W5UAS)** Christopher Steiner
 
-## Ongoing
 **[HTML and CSS: Design and Build Websites](http://www.amazon.com/dp/1118008189)** Jon Duckett
 
 **[JavaScript Web Applications](http://www.amazon.com/gp/product/B005KOJ3K4)** Alex MacCaw
