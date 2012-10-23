@@ -7,6 +7,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[Fahrenheit 451](http://www.amazon.com/gp/product/1451673310)** Ray Bradbury
+
 **[Learn Node.js by Example](http://www.udemy.com/learn-nodejs-by-example/)** Udemy
 
 **[Maintainable JavaScript](http://www.amazon.com/dp/B0082CXEB0)** Nicholas C. Zakas
