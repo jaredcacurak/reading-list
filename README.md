@@ -9,6 +9,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript)** Nicholas C. Zakas
+
 **[Slaughterhouse-Five](http://www.amazon.com/dp/B003XVYLDU/)** Kurt Vonnegut
 
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
