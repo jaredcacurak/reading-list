@@ -11,8 +11,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript)** Nicholas C. Zakas
 
-**[Slaughterhouse-Five](http://www.amazon.com/dp/B003XVYLDU/)** Kurt Vonnegut
-
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
 
 **[Learn Node.js by Example](http://www.udemy.com/learn-nodejs-by-example/)** Udemy
@@ -28,6 +26,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Slaughterhouse-Five](http://www.amazon.com/dp/B003XVYLDU/)** Kurt Vonnegut
+
 **[Ubik](http://www.amazon.com/dp/B005LVR6ZA/)** Philip K. Dick
 
 **[Fahrenheit 451](http://www.amazon.com/gp/product/1451673310)** Ray Bradbury
