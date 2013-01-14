@@ -26,6 +26,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Animal Farm](http://www.amazon.com/dp/B003K16PUU)** George Orwell
+
 **[Slaughterhouse-Five](http://www.amazon.com/dp/B003XVYLDU/)** Kurt Vonnegut
 
 **[Ubik](http://www.amazon.com/dp/B005LVR6ZA/)** Philip K. Dick
