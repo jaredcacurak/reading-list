@@ -9,8 +9,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
-**[Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript)** Nicholas C. Zakas
-
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
 
 **[Learn Node.js by Example](http://www.udemy.com/learn-nodejs-by-example/)** Udemy
@@ -26,6 +24,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript)** Nicholas C. Zakas
+
 **[Animal Farm](http://www.amazon.com/dp/B003K16PUU)** George Orwell
 
 **[Slaughterhouse-Five](http://www.amazon.com/dp/B003XVYLDU/)** Kurt Vonnegut
