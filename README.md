@@ -9,6 +9,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[The Rational Optimist](http://www.amazon.com/dp/B003QP4BJM)** Matt Ridley
+
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
 
 **[Learn Node.js by Example](http://www.udemy.com/learn-nodejs-by-example/)** Udemy
