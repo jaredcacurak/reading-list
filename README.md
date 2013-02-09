@@ -9,6 +9,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 ## Ongoing
+**[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
+
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
 
 ## Back Burner
