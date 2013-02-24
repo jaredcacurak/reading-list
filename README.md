@@ -162,6 +162,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
 ## Courses
+**[Try jQuery](http://www.codeschool.com/courses/try-jquery)** Code School
+
 **[Git Real](http://www.codeschool.com/courses/git-real)** Code School
 
 **[CS101: Intro to Computer](http://www.udacity.com/overview/Course/cs101/CourseRev/feb2012)** Udacity
