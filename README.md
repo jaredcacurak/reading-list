@@ -6,8 +6,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
-**[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
-
 ## Ongoing
 **[Makers: The New Industrial Revolution](http://www.amazon.com/dp/B0083DJUMA/)** Chris Anderson
 
@@ -164,6 +162,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
 ## Courses
+**[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
+
 **[Try jQuery](http://www.codeschool.com/courses/try-jquery)** Code School
 
 **[Git Real](http://www.codeschool.com/courses/git-real)** Code School
