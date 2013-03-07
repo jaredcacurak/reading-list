@@ -207,6 +207,24 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Source Control Made Easy]([http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy)** Jim Weirich
 
+## Podcasts
+**[.NET Rocks!](http://www.dotnetrocks.com)** Carl Franklin and Richard Campbell
+
+**[Hanselminutes](http://www.hanselminutes.com)** Scott Hanselman
+
+**[JavaScript Jabber](http://javascriptjabber.com)** Charles Max Wood
+
+**[Radiolab](http://www.radiolab.org)** Jad Abumrad and Robert Krulwich
+
+**[TechVibe Radio](http://www.pghtech.org/news-and-publications/teq/radio-show.aspx)** Audrey Russo and Jonathan Kersting
+
+**[The Java Posse](http://javaposse.com)** Tor Norbye, Carl Quinn, Dick Wall, and Chet Haase
+
+**[This Developer's Life](http://thisdeveloperslife.com)** Rob Conery and Scott Hanselman
+
+**[this WEEK in TECH](http://twit.tv/twit)** Leo Laporte
+
+
 ## Wishful Thinking
 **[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
