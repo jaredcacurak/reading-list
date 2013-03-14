@@ -7,8 +7,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Makers: The New Industrial Revolution](http://www.amazon.com/dp/B0083DJUMA/)** Chris Anderson
-
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
 
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
@@ -27,6 +25,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Makers: The New Industrial Revolution](http://www.amazon.com/dp/B0083DJUMA/)** Chris Anderson
+
 **[Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript)** Nicholas C. Zakas
 
 **[Animal Farm](http://www.amazon.com/dp/B003K16PUU)** George Orwell
