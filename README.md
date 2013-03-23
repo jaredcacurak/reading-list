@@ -7,8 +7,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Discover DevTools](http://discover-devtools.codeschool.com/)** Code School
-
 **[Brave New World](http://www.amazon.com/dp/0061767646)** Aldous Huxley
 
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
@@ -166,6 +164,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
 ## Courses
+**[Discover DevTools](http://discover-devtools.codeschool.com/)** Code School
+
 **[jQuery Air: Captain's Log](http://www.codeschool.com/courses/jquery-air-captains-log)** Code School
 
 **[Try jQuery](http://www.codeschool.com/courses/try-jquery)** Code School
