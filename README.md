@@ -20,9 +20,9 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
 
+## Back Burner
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
 
-## Back Burner
 **[The Rational Optimist](http://www.amazon.com/dp/B003QP4BJM)** Matt Ridley
 
 **[Learn Node.js by Example](http://www.udemy.com/learn-nodejs-by-example/)** Udemy
