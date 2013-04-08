@@ -16,6 +16,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
+
 **[Trillions: Thriving in the Emerging Information Ecology](http://www.amazon.com/dp/B008SGNFJQ)** Peter Lucas, Joe Ballay, Mickey McManus
 
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
