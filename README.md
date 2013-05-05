@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
 
-**[Trillions: Thriving in the Emerging Information Ecology](http://www.amazon.com/dp/B008SGNFJQ)** Peter Lucas, Joe Ballay, Mickey McManus
-
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
 
 ## Back Burner
@@ -38,6 +36,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Trillions: Thriving in the Emerging Information Ecology](http://www.amazon.com/dp/B008SGNFJQ)** Peter Lucas, Joe Ballay, Mickey McManus
+
 **[Brave New World](http://www.amazon.com/dp/0061767646)** Aldous Huxley
 
 **[Makers: The New Industrial Revolution](http://www.amazon.com/dp/B0083DJUMA/)** Chris Anderson
