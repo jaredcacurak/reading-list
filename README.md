@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Mr. Penumbra's 24-Hour Bookstore](http://www.amazon.com/dp/B008FPOIT6/)** Robin Sloan
-
 **[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
 
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
@@ -38,6 +36,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Mr. Penumbra's 24-Hour Bookstore](http://www.amazon.com/dp/B008FPOIT6/)** Robin Sloan
+
 **[Trillions: Thriving in the Emerging Information Ecology](http://www.amazon.com/dp/B008SGNFJQ)** Peter Lucas, Joe Ballay, Mickey McManus
 
 **[Brave New World](http://www.amazon.com/dp/0061767646)** Aldous Huxley
