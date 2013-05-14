@@ -16,6 +16,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The New Digital Age: Reshaping the Future of People, Nations and Business](http://www.amazon.com/dp/0307957136/)** Eric Schmidt, Jared Cohen
+
 **[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
 
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
