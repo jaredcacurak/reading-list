@@ -241,6 +241,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[TechVibe Radio](http://www.pghtech.org/news-and-publications/teq/radio-show.aspx)** Audrey Russo and Jonathan Kersting
 
+**[The changelog](http://5by5.tv/changelog)** Adam Stacoviak and Andrew Thorp
+
 **[The Java Posse](http://javaposse.com)** Tor Norbye, Carl Quinn, Dick Wall, and Chet Haase
 
 **[This Developer's Life](http://thisdeveloperslife.com)** Rob Conery and Scott Hanselman
