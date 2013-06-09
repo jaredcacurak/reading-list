@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Ruby Koans](http://rubykoans.com/)** Neo
+
 **[Ruby Programming Online Course](http://pragmaticstudio.com/ruby)** Pragmatic Studio
 
 **[The New Digital Age: Reshaping the Future of People, Nations and Business](http://www.amazon.com/dp/0307957136/)** Eric Schmidt, Jared Cohen
