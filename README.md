@@ -20,8 +20,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The New Digital Age: Reshaping the Future of People, Nations and Business](http://www.amazon.com/dp/0307957136/)** Eric Schmidt, Jared Cohen
 
-**[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
-
 ## Back Burner
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
 
@@ -40,6 +38,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
+
 **[Mr. Penumbra's 24-Hour Bookstore](http://www.amazon.com/dp/B008FPOIT6/)** Robin Sloan
 
 **[Trillions: Thriving in the Emerging Information Ecology](http://www.amazon.com/dp/B008SGNFJQ)** Peter Lucas, Joe Ballay, Mickey McManus
