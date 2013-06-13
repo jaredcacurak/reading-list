@@ -183,6 +183,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)** Andy Hunt
 
 ## Courses
+**[Get Real 2](http://www.codeschool.com/courses/git-real-2)** Code School
+
 **[Real-time Web with Node.js](http://www.codeschool.com/courses/real-time-web-with-nodejs)** Code School
 
 **[Discover DevTools](http://discover-devtools.codeschool.com/)** Code School
