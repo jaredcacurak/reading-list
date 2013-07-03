@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[A Clockwork Orange](http://www.amazon.com/dp/B000SAGY8E)** Anthony Burgess
-
 **[Ruby Koans](http://rubykoans.com/)** Neo
 
 **[Ruby Programming Online Course](http://pragmaticstudio.com/ruby)** Pragmatic Studio
@@ -38,6 +36,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[A Clockwork Orange](http://www.amazon.com/dp/B000SAGY8E)** Anthony Burgess
+
 **[The New Digital Age: Reshaping the Future of People, Nations and Business](http://www.amazon.com/dp/0307957136/)** Eric Schmidt, Jared Cohen
 
 **[Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/dp/B00AC1RP14)** David Herman
