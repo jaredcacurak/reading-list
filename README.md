@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Great Gatsby](http://www.amazon.com/dp/B000FC0PDA)** F. Scott Fitzgerald
+
 **[Ruby Koans](http://rubykoans.com/)** Neo
 
 **[Ruby Programming Online Course](http://pragmaticstudio.com/ruby)** Pragmatic Studio
