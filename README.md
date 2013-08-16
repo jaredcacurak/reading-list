@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
 
-**[The Great Gatsby](http://www.amazon.com/dp/B000FC0PDA)** F. Scott Fitzgerald
-
 **[Ruby Koans](http://rubykoans.com/)** Neo
 
 **[Ruby Programming Online Course](http://pragmaticstudio.com/ruby)** Pragmatic Studio
@@ -40,6 +38,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Great Gatsby](http://www.amazon.com/dp/B000FC0PDA)** F. Scott Fitzgerald
+
 **[The Diamond Age](http://www.amazon.com/dp/B000FBJCKI)** Neal Stephenson
 
 **[A Clockwork Orange](http://www.amazon.com/dp/B000SAGY8E)** Anthony Burgess
