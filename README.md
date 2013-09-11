@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[American Gods](http://www.amazon.com/dp/B000FC10MU)** Neil Gaiman
-
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
 
 **[Ruby Koans](http://rubykoans.com/)** Neo
@@ -40,6 +38,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[American Gods](http://www.amazon.com/dp/B000FC10MU)** Neil Gaiman
+
 **[The Great Gatsby](http://www.amazon.com/dp/B000FC0PDA)** F. Scott Fitzgerald
 
 **[The Diamond Age](http://www.amazon.com/dp/B000FBJCKI)** Neal Stephenson
