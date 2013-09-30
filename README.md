@@ -18,11 +18,11 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
 
+## Back Burner
 **[Ruby Koans](http://rubykoans.com/)** Neo
 
 **[Ruby Programming Online Course](http://pragmaticstudio.com/ruby)** Pragmatic Studio
 
-## Back Burner
 **[Visualizing Algebra](https://www.udacity.com/course/ma006)** Udacity
 
 **[Async JavaScript: Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript)** Trevor Burnham
