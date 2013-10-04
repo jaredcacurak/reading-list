@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
-**[1984](http://www.amazon.com/dp/B003JTHWKU/)** George Orwell
-
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
 
 ## Back Burner
@@ -42,6 +40,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[1984](http://www.amazon.com/dp/B003JTHWKU/)** George Orwell
+
 **[American Gods](http://www.amazon.com/dp/B000FC10MU)** Neil Gaiman
 
 **[The Great Gatsby](http://www.amazon.com/dp/B000FC0PDA)** F. Scott Fitzgerald
