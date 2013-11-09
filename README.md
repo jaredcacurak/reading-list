@@ -11,6 +11,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 * [Wishful Thinking](#wishful-thinking)
 
 ## Upcoming
+**[Speed Reading: Foundation Course](http://www.irisreading.com/online-courses/)** Iris
+
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
