@@ -16,6 +16,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](http://www.amazon.com/dp/B0047Y0F0K)** Kevin Mitnick, William L. Simon
+
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
