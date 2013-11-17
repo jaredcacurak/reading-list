@@ -11,8 +11,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 * [Wishful Thinking](#wishful-thinking)
 
 ## Upcoming
-**[Speed Reading: Foundation Course](http://www.irisreading.com/online-courses/)** Iris
-
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
@@ -226,6 +224,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[jQuery Air: First Flight](http://www.codeschool.com/courses/jquery-air-first-flight)** Code School
 
 ## Videos
+**[Speed Reading: Foundation Course](http://www.irisreading.com/online-courses/)** Iris
+
 **[Neal Ford on Agile Engineering Practices](http://shop.oreilly.com/product/0636920020271.do)**
 
 **[An Introduction to MapReduce with Pete Warden](http://shop.oreilly.com/product/0636920020226.do)**
