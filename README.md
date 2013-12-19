@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Lauren Ipsum](http://www.amazon.com/dp/B0069ZG8MY)** Carlos Bueno
-
 **[Solaris](http://www.amazon.com/dp/B006JWE0MC/)** Stanislaw Lem
 
 **[Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way)** Jim R. Wilson
@@ -46,6 +44,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Lauren Ipsum](http://www.amazon.com/dp/B0069ZG8MY)** Carlos Bueno
+
 **[Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](http://www.amazon.com/dp/B0047Y0F0K)** Kevin Mitnick, William L. Simon
 
 **[Count Zero](http://www.amazon.com/dp/B000PDYVZM)** William Gibson
