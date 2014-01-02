@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[On the Road](http://www.amazon.com/dp/B002IPZFYQ/)** Jack Kerouac
 
-**[Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way)** Jim R. Wilson
-
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
@@ -44,6 +42,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way)** Jim R. Wilson
+
 **[Solaris](http://www.amazon.com/dp/B006JWE0MC/)** Stanislaw Lem
 
 **[Lauren Ipsum](http://www.amazon.com/dp/B0069ZG8MY)** Carlos Bueno
