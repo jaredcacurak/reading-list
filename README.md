@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Poke the Box](http://www.amazon.com/dp/B004J4XG0O)** Seth Godin
+
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
