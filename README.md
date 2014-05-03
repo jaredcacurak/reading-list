@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Cryptonomicon](http://www.amazon.com/dp/0060512806)** Neal Stephenson
-
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
@@ -42,6 +40,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Cryptonomicon](http://www.amazon.com/dp/0060512806)** Neal Stephenson
+
 **[Influx](http://www.amazon.com/dp/B00DMCPOBI)** Daniel Suarez
 
 **[The Call of the Wild](http://en.wikipedia.org/wiki/The_Call_of_the_Wild)** Jack London
