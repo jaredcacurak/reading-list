@@ -42,6 +42,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://www.amazon.com/dp/B00FES6RLE)** Robert Scoble Shel Israel
+
 **[Catching Fire](http://www.amazon.com/dp/B003O86FMW)** Suzanne Collins
 
 **[The Wisdom of Crowds](http://www.amazon.com/dp/B000FCKC3I)** James Surowiecki
