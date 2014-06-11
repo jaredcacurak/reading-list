@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Martian](http://www.amazon.com/dp/B00EMXBDMA)** Andy Weir
+
 **[The Little Prince](http://www.amazon.com/dp/B008QYT7DI)** Antoine de Saint-Exupery
 
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
