@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The Martian](http://www.amazon.com/dp/B00EMXBDMA)** Andy Weir
 
-**[The Little Prince](http://www.amazon.com/dp/B008QYT7DI)** Antoine de Saint-Exupery
-
 **[Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/dp/B00D624AQO)** Michael Fogus
 
 **[JavaScript Allongé](https://leanpub.com/javascript-allonge)** Reginald Braithwaite
@@ -44,6 +42,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Little Prince](http://www.amazon.com/dp/B008QYT7DI)** Antoine de Saint-Exupery
+
 **[Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://www.amazon.com/dp/B00FES6RLE)** Robert Scoble Shel Israel
 
 **[Catching Fire](http://www.amazon.com/dp/B003O86FMW)** Suzanne Collins
