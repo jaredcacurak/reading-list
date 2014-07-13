@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Breakfast at Tiffany's](http://www.audible.com/pd/B00HX1XLSM)** Truman Capote
+
 **[Zen Mind, Beginner's Mind](http://www.amazon.com/dp/B0000544OP)** Shunryu Suzuki
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
