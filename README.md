@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[The Art of Learning: An Inner Journey to Optimal Performance](http://www.amazon.com/dp/B000QCQ970)** Josh Waitzkin
-
 **[Zen Mind, Beginner's Mind](http://www.amazon.com/dp/B0000544OP)** Shunryu Suzuki
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
@@ -46,6 +44,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Art of Learning: An Inner Journey to Optimal Performance](http://www.amazon.com/dp/B000QCQ970)** Josh Waitzkin
+
 **[Breakfast at Tiffany's](http://www.audible.com/pd/B00HX1XLSM)** Truman Capote
 
 **[The Martian](http://www.amazon.com/dp/B00EMXBDMA)** Andy Weir
