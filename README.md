@@ -42,6 +42,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World](http://www.amazon.com/dp/B00E78IFV2)** Mark Miodownik
+
 **[The Second Machine Age](http://www.amazon.com/dp/B00D97HPQI)** Erik Brynjolfsson Andrew McAfee
 
 **[Anathem](http://www.amazon.com/dp/B0015DPXKI)** Neal Stephenson
