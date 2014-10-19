@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Twelve Angry Men](http://www.amazon.com/dp/B001O6MDRM)** Reginald Rose
-
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
@@ -46,6 +44,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Twelve Angry Men](http://www.amazon.com/dp/B001O6MDRM)** Reginald Rose
+
 **[At the Mountains of Madness](http://www.amazon.com/dp/B002WN354G)** H. P. Lovecraft
 
 **[The Giver](http://www.amazon.com/dp/B003MC5N28)** Lois Lowry
