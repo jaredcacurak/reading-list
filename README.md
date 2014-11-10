@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Scrum: The Art of Doing Twice the Work in Half the Time](http://www.amazon.com/dp/B00JI54HCU)** Jeff Sutherland
-
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
@@ -46,6 +44,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Scrum: The Art of Doing Twice the Work in Half the Time](http://www.amazon.com/dp/B00JI54HCU)** Jeff Sutherland
+
 **[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](http://www.amazon.com/dp/B000FBFNL0)** David Kushner
 
 **[Twelve Angry Men](http://www.amazon.com/dp/B001O6MDRM)** Reginald Rose
