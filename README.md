@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Whiskey Tango Foxtrot](http://www.amazon.com/dp/B00H25FFGU)** David Shafer
+
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
