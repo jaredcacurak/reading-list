@@ -44,6 +44,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Harry Potter and the Sorcerer's Stone](http://www.amazon.com/dp/B00728DYRO)** J.K. Rowling
+
 **[Whiskey Tango Foxtrot](http://www.amazon.com/dp/B00H25FFGU)** David Shafer
 
 **[Scrum: The Art of Doing Twice the Work in Half the Time](http://www.amazon.com/dp/B00JI54HCU)** Jeff Sutherland
