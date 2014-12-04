@@ -46,6 +46,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Little Go Book](http://openmymind.net/The-Little-Go-Book)** Karl Seguin
+
 **[Harry Potter and the Sorcerer's Stone](http://www.amazon.com/dp/B00728DYRO)** J.K. Rowling
 
 **[Whiskey Tango Foxtrot](http://www.amazon.com/dp/B00H25FFGU)** David Shafer
