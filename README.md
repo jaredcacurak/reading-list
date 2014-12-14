@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Strong Fathers, Strong Daughters: 10 Secrets Every Father Should Know](http://www.amazon.com/dp/B000X16PVE)** Meg Meeker
+
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Harry Potter and the Chamber of Secrets](http://www.amazon.com/dp/B00728DYG0)** J.K. Rowling
