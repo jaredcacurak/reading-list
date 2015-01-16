@@ -52,6 +52,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[What I Learned Losing A Million Dollars](http://www.amazon.com/dp/B00MNMHBA0)** Brendan Moynihan
+
 **[Strong Fathers, Strong Daughters: 10 Secrets Every Father Should Know](http://www.amazon.com/dp/B000X16PVE)** Meg Meeker
 
 **[The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](http://www.amazon.com/dp/B00G3L1B8K)** Ryan Holiday
