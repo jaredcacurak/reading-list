@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
+
 **[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
 
 **[the Pomodoro Technique](http://pomodorotechnique.com/book/)** Francesco Cirillo
