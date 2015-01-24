@@ -22,8 +22,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
-**[Harry Potter and the Chamber of Secrets](http://www.amazon.com/dp/B00728DYG0)** J.K. Rowling
-
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
 
 **[Just Hibernate: A Lightweight Introduction to the Hibernate Framework](http://shop.oreilly.com/product/0636920026174.do)** Madhusudhan Konda
@@ -54,6 +52,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Harry Potter and the Chamber of Secrets](http://www.amazon.com/dp/B00728DYG0)** J.K. Rowling
+
 **[What I Learned Losing A Million Dollars](http://www.amazon.com/dp/B00MNMHBA0)** Brendan Moynihan
 
 **[Strong Fathers, Strong Daughters: 10 Secrets Every Father Should Know](http://www.amazon.com/dp/B000X16PVE)** Meg Meeker
