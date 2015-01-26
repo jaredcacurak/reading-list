@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[A Series of Unfortunate Events: The Bad Beginning](http://www.amazon.com/dp/B000VYX8PE)** Daniel Handler
+
 **[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
 
 **[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
@@ -359,9 +361,9 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Wishful Thinking
 **[Think Stats](http://www.amazon.com/gp/product/1449307116)** Allen B. Downey
 
-**[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date 
+**[SQL and Relational Theory: How to Write Accurate SQL Code](http://www.amazon.com/gp/product/B0026OR30I)** C. J. Date
 
-**[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble 
+**[Programming Interactivity](http://www.amazon.com/gp/product/B006X2QD8W)** Joshua Noble
 
 **[Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4)** Toby Segaran
 
