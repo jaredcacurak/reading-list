@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[A Series of Unfortunate Events: The Bad Beginning](http://www.amazon.com/dp/B000VYX8PE)** Daniel Handler
-
 **[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
 
 **[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
@@ -54,6 +52,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[A Series of Unfortunate Events: The Bad Beginning](http://www.amazon.com/dp/B000VYX8PE)** Daniel Handler
+
 **[Harry Potter and the Chamber of Secrets](http://www.amazon.com/dp/B00728DYG0)** J.K. Rowling
 
 **[What I Learned Losing A Million Dollars](http://www.amazon.com/dp/B00MNMHBA0)** Brendan Moynihan
