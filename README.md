@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
 
-**[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
-
 **[the Pomodoro Technique](http://pomodorotechnique.com/book/)** Francesco Cirillo
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -54,6 +52,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
+
 **[A Series of Unfortunate Events: The Bad Beginning](http://www.amazon.com/dp/B000VYX8PE)** Daniel Handler
 
 **[Harry Potter and the Chamber of Secrets](http://www.amazon.com/dp/B00728DYG0)** J.K. Rowling
