@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
 
-**[the Pomodoro Technique](http://pomodorotechnique.com/book/)** Francesco Cirillo
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[the Pomodoro Technique](http://pomodorotechnique.com/book/)** Francesco Cirillo
+
 **[Hatchet](http://www.amazon.com/dp/B002MBLU9U)** Gary Paulsen
 
 **[A Series of Unfortunate Events: The Bad Beginning](http://www.amazon.com/dp/B000VYX8PE)** Daniel Handler
