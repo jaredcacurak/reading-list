@@ -353,8 +353,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The changelog](http://5by5.tv/changelog)** Adam Stacoviak and Andrew Thorp
 
-**[The Java Posse](http://javaposse.com)** Tor Norbye, Carl Quinn, Dick Wall, and Chet Haase
-
 **[This Developer's Life](http://thisdeveloperslife.com)** Rob Conery and Scott Hanselman
 
 **[this WEEK in TECH](http://twit.tv/twit)** Leo Laporte
