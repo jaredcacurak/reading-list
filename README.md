@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Harry Potter and the Prisoner of Azkaban](http://www.amazon.com/dp/B00728DYP6)** J.K. Rowling
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -48,6 +46,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Harry Potter and the Prisoner of Azkaban](http://www.amazon.com/dp/B00728DYP6)** J.K. Rowling
+
 **[Steelheart](http://www.amazon.com/dp/B00ARHAAZ6)** Brandon Sanderson
 
 **[Zorba the Greek](http://www.amazon.com/dp/B0073GUME8)** Nikos Kazantzakis
