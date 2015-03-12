@@ -46,6 +46,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/dp/B007P5N8D4)** Chris Sims Hillary Louise Johnson
+
 **[Harry Potter and the Prisoner of Azkaban](http://www.amazon.com/dp/B00728DYP6)** J.K. Rowling
 
 **[Steelheart](http://www.amazon.com/dp/B00ARHAAZ6)** Brandon Sanderson
