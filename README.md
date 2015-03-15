@@ -14,7 +14,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim Kevin Behr George Spafford
+**[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim, Kevin Behr, George Spafford
 
 **[A Series of Unfortunate Events: The Reptile Room](http://www.amazon.com/dp/B000VYX94O)**  Daniel Handler
 
@@ -50,7 +50,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
-**[Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/dp/B007P5N8D4)** Chris Sims Hillary Louise Johnson
+**[Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/dp/B007P5N8D4)** Chris Sims, Hillary Louise Johnson
 
 **[Harry Potter and the Prisoner of Azkaban](http://www.amazon.com/dp/B00728DYP6)** J.K. Rowling
 
@@ -94,7 +94,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World](http://www.amazon.com/dp/B00E78IFV2)** Mark Miodownik
 
-**[The Second Machine Age](http://www.amazon.com/dp/B00D97HPQI)** Erik Brynjolfsson Andrew McAfee
+**[The Second Machine Age](http://www.amazon.com/dp/B00D97HPQI)** Erik Brynjolfsson, Andrew McAfee
 
 **[Anathem](http://www.amazon.com/dp/B0015DPXKI)** Neal Stephenson
 
@@ -108,7 +108,7 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The Little Prince](http://www.amazon.com/dp/B008QYT7DI)** Antoine de Saint-Exupery
 
-**[Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://www.amazon.com/dp/B00FES6RLE)** Robert Scoble Shel Israel
+**[Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://www.amazon.com/dp/B00FES6RLE)** Robert Scoble, Shel Israel
 
 **[Catching Fire](http://www.amazon.com/dp/B003O86FMW)** Suzanne Collins
 
