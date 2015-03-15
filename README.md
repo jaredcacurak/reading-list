@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim Kevin Behr George Spafford
+
 **[A Series of Unfortunate Events: The Reptile Room](http://www.amazon.com/dp/B000VYX94O)**  Daniel Handler
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
