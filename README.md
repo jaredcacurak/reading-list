@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](http://www.amazon.com/dp/B00CDUVSQ0)** Nick Bilton
+
 **[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim, Kevin Behr, George Spafford
 
 **[A Series of Unfortunate Events: The Reptile Room](http://www.amazon.com/dp/B000VYX94O)**  Daniel Handler
