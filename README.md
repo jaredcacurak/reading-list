@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim, Kevin Behr, George Spafford
 
-**[A Series of Unfortunate Events: The Reptile Room](http://www.amazon.com/dp/B000VYX94O)**  Daniel Handler
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[A Series of Unfortunate Events: The Reptile Room](http://www.amazon.com/dp/B000VYX94O)**  Daniel Handler
+
 **[Scrum: a Breathtakingly Brief and Agile Introduction](http://www.amazon.com/dp/B007P5N8D4)** Chris Sims, Hillary Louise Johnson
 
 **[Harry Potter and the Prisoner of Azkaban](http://www.amazon.com/dp/B00728DYP6)** J.K. Rowling
