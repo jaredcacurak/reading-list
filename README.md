@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[A Series of Unfortunate Events: The Wide Window](http://www.amazon.com/dp/B000VYW6WA)** Daniel Handler
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -48,6 +46,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[A Series of Unfortunate Events: The Wide Window](http://www.amazon.com/dp/B000VYW6WA)** Daniel Handler
+
 **[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim, Kevin Behr, George Spafford
 
 **[Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](http://www.amazon.com/dp/B00CDUVSQ0)** Nick Bilton
