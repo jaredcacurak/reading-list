@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Lion, the Witch and the Wardrobe: The Chronicles of Narnia](http://www.amazon.com/dp/B001I45UFC)** C.S. Lewis
+
 **[The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](http://www.amazon.com/dp/B00JGAS65Q)** Walter Isaacson
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
