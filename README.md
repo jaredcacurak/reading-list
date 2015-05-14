@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[The Lion, the Witch and the Wardrobe: The Chronicles of Narnia](http://www.amazon.com/dp/B001I45UFC)** C.S. Lewis
-
 **[The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](http://www.amazon.com/dp/B00JGAS65Q)** Walter Isaacson
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -50,6 +48,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Lion, the Witch and the Wardrobe: The Chronicles of Narnia](http://www.amazon.com/dp/B001I45UFC)** C.S. Lewis
+
 **[A Series of Unfortunate Events: The Wide Window](http://www.amazon.com/dp/B000VYW6WA)** Daniel Handler
 
 **[The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.amazon.com/dp/B00AZRBLHO)** Gene Kim, Kevin Behr, George Spafford
