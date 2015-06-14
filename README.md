@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Bold: How to Go Big, Create Wealth and Impact the World](http://www.amazon.com/dp/B00LD1RZGM)** Peter H. Diamandis, Steven Kotler
-
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -50,6 +48,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Bold: How to Go Big, Create Wealth and Impact the World](http://www.amazon.com/dp/B00LD1RZGM)** Peter H. Diamandis, Steven Kotler
+
 **[Something Wicked This Way Comes](http://www.amazon.com/dp/B00C2C637I)** Ray Bradbury
 
 **[The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](http://www.amazon.com/dp/B00JGAS65Q)** Walter Isaacson
