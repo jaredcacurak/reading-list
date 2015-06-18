@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.amazon.com/dp/B006R8PL7G)** Steven H. Strogatz
 
-**[Fight Club](http://www.amazon.com/dp/B000U0O9FM/)** Chuck Palahniuk
-
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Fight Club](http://www.amazon.com/dp/B000U0O9FM/)** Chuck Palahniuk
+
 **[Bold: How to Go Big, Create Wealth and Impact the World](http://www.amazon.com/dp/B00LD1RZGM)** Peter H. Diamandis, Steven Kotler
 
 **[Something Wicked This Way Comes](http://www.amazon.com/dp/B00C2C637I)** Ray Bradbury
