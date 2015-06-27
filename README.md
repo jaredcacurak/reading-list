@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Jurassic Park: A Novel](http://www.amazon.com/dp/B007UH4D3G)** Michael Crichton
+
 **[The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.amazon.com/dp/B006R8PL7G)** Steven H. Strogatz
 
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
