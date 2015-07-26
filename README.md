@@ -50,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Stranger](http://www.amazon.com/dp/B008QLXSG8)** Albert Camus
+
 **[The Perks of Being a Wallflower](http://www.amazon.com/dp/B003TSEEDY)** Stephen Chbosky
 
 **[Jurassic Park: A Novel](http://www.amazon.com/dp/B007UH4D3G)** Michael Crichton
