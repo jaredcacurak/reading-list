@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Mockingjay](http://www.amazon.com/dp/B003XF1XOQ)** Suzanne Collins
-
 **[The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.amazon.com/dp/B006R8PL7G)** Steven H. Strogatz
 
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Mockingjay](http://www.amazon.com/dp/B003XF1XOQ)** Suzanne Collins
+
 **[The Stranger](http://www.amazon.com/dp/B008QLXSG8)** Albert Camus
 
 **[The Perks of Being a Wallflower](http://www.amazon.com/dp/B003TSEEDY)** Stephen Chbosky
