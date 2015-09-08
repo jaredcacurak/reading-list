@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[One Flew Over the Cuckoo's Nest](http://www.amazon.com/dp/B006CU9XOQ/)** Ken Kesey
 
-**[The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.amazon.com/dp/B006R8PL7G)** Steven H. Strogatz
-
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.amazon.com/dp/B006R8PL7G)** Steven H. Strogatz
+
 **[Mockingjay](http://www.amazon.com/dp/B003XF1XOQ)** Suzanne Collins
 
 **[The Stranger](http://www.amazon.com/dp/B008QLXSG8)** Albert Camus
