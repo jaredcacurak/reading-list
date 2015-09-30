@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -48,6 +46,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
+
 **[The Rum Diary](http://www.amazon.com/dp/B005GG0MOM)** Hunter S. Thompson
 
 **[One Flew Over the Cuckoo's Nest](http://www.amazon.com/dp/B006CU9XOQ/)** Ken Kesey
