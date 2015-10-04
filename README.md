@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Coraline](http://www.amazon.com/dp/B007F0IXD4)** Neil Gaiman
+
 **[Breakfast of Champions](http://www.amazon.com/dp/B003XRELEI)** Kurt Vonnegut
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
