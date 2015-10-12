@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[Coraline](http://www.amazon.com/dp/B007F0IXD4)** Neil Gaiman
 
-**[Breakfast of Champions](http://www.amazon.com/dp/B003XRELEI)** Kurt Vonnegut
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -50,6 +48,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Breakfast of Champions](http://www.amazon.com/dp/B003XRELEI)** Kurt Vonnegut
+
 **[Harry Potter and the Goblet of Fire](http://www.amazon.com/dp/B00728DYCO)** J.K. Rowling
 
 **[The Rum Diary](http://www.amazon.com/dp/B005GG0MOM)** Hunter S. Thompson
