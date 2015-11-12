@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Witches](http://www.amazon.com/dp/B00INIYHJQ)** Roald Dahl
+
 **[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://www.amazon.com/dp/B004J4XGN6)** Eric Ries
 
 **[Confessions of a Public Speaker](http://www.amazon.com/dp/B002VL1CGM)** Scott Berkun
