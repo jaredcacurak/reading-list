@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The Witches](http://www.amazon.com/dp/B00INIYHJQ)** Roald Dahl
 
-**[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://www.amazon.com/dp/B004J4XGN6)** Eric Ries
-
 **[Confessions of a Public Speaker](http://www.amazon.com/dp/B002VL1CGM)** Scott Berkun
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](http://www.amazon.com/dp/B004J4XGN6)** Eric Ries
+
 **[Fantastic Mr. Fox](http://www.amazon.com/dp/B0093WVND4)** Roald Dahl
 
 **[Coraline](http://www.amazon.com/dp/B007F0IXD4)** Neil Gaiman
