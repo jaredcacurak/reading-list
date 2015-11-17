@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Heart of Darkness](http://www.amazon.com/dp/B0084AMNWQ)** Joseph Conrad
+
 **[The Witches](http://www.amazon.com/dp/B00INIYHJQ)** Roald Dahl
 
 **[Confessions of a Public Speaker](http://www.amazon.com/dp/B002VL1CGM)** Scott Berkun
