@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
+
 **[The Absolutely True Diary of a Part-Time Indian](http://www.amazon.com/dp/B006T2O8TW)** Sherman Alexie
 
 **[The Witches](http://www.amazon.com/dp/B00INIYHJQ)** Roald Dahl
