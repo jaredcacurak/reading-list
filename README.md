@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
 
-**[The Absolutely True Diary of a Part-Time Indian](http://www.amazon.com/dp/B006T2O8TW)** Sherman Alexie
-
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
 
 **[Thinking, Fast and Slow](http://www.amazon.com/dp/B00555X8OA)** Daniel Kahneman
@@ -50,6 +48,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Absolutely True Diary of a Part-Time Indian](http://www.amazon.com/dp/B006T2O8TW)** Sherman Alexie
+
 **[The Witches](http://www.amazon.com/dp/B00INIYHJQ)** Roald Dahl
 
 **[Heart of Darkness](http://www.amazon.com/dp/B0084AMNWQ)** Joseph Conrad
