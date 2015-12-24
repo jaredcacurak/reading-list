@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Why We Make Things and Why It Matters: The Education of a Craftsman](http://www.amazon.com/dp/B00HF28T0Y)** Peter Korn
+
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
