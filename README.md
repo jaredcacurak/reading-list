@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Flash Boys: A Wall Street Revolt](http://www.amazon.com/dp/B00HVJB4VM)** Michael Lewis
+
 **[Stuart Little](http://www.amazon.com/dp/B00T3DNKJS)** E.B. White
 
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
