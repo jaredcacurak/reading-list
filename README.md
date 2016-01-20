@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[Flash Boys: A Wall Street Revolt](http://www.amazon.com/dp/B00HVJB4VM)** Michael Lewis
 
-**[Stuart Little](http://www.amazon.com/dp/B00T3DNKJS)** E.B. White
-
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Stuart Little](http://www.amazon.com/dp/B00T3DNKJS)** E.B. White
+
 **[Why We Make Things and Why It Matters: The Education of a Craftsman](http://www.amazon.com/dp/B00HF28T0Y)** Peter Korn
 
 **[The Practicing Mind: Developing Focus and Discipline in Your Life](http://www.amazon.com/dp/B007C8NRSA)** Thomas M. Sterner
