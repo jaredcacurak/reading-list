@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
 
-**[Seveneves](http://www.amazon.com/dp/B00LZWV8JO)** Neal Stephenson
-
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
 
 **[Release It!: Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)** Michael T. Nygard
@@ -52,6 +50,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Seveneves](http://www.amazon.com/dp/B00LZWV8JO)** Neal Stephenson
+
 **[Pippi Longstocking](http://www.amazon.com/dp/0142402494)** Astrid Lindgren
 
 **[Flash Boys: A Wall Street Revolt](http://www.amazon.com/dp/B00HVJB4VM)** Michael Lewis
