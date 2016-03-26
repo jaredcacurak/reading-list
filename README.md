@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Everything Your Coach Never Told You Because You're a Girl: (and other truths about winning!)]()** Dan Blank
+
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
 
 **[The Go Programming Language](http://www.amazon.com/dp/B0184N7WWS)** Alan A. A. Donovan, Brian W. Kernighan
