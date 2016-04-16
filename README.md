@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Three-Body Problem](http://www.amazon.com/dp/B00IQO403K)** Cixin Liu
+
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
 
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
