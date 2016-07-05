@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life](https://www.amazon.com/gp/product/B00MEMMS9I)** David Perlmutter
-
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
 
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
@@ -54,6 +52,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life](https://www.amazon.com/gp/product/B00MEMMS9I)** David Perlmutter
+
 **[Lock In: A Novel of the Near Future](https://www.amazon.com/dp/B00IHCBE1C)** John Scalzi
 
 **[The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)](https://www.amazon.com/dp/B00AKKS278)** Hal Elrod
