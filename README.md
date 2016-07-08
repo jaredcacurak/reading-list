@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[The Big Short: Inside the Doomsday Machine](https://www.amazon.com/dp/B003LSTK8G)** Michael Lewis
+
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
 
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
