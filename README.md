@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
 
-**[The Big Short: Inside the Doomsday Machine](https://www.amazon.com/dp/B003LSTK8G)** Michael Lewis
-
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
 
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
@@ -56,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Big Short: Inside the Doomsday Machine](https://www.amazon.com/dp/B003LSTK8G)** Michael Lewis
+
 **[Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life](https://www.amazon.com/gp/product/B00MEMMS9I)** David Perlmutter
 
 **[Lock In: A Novel of the Near Future](https://www.amazon.com/dp/B00IHCBE1C)** John Scalzi
