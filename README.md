@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[Soft Skills: The software developer's life manual](https://www.amazon.com/dp/1617292397)** John Sonmez
+
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
 
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
