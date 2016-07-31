@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
-**[Soft Skills: The software developer's life manual](https://www.amazon.com/dp/1617292397)** John Sonmez
-
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
 
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
@@ -60,6 +58,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Soft Skills: The software developer's life manual](https://www.amazon.com/dp/1617292397)** John Sonmez
+
 **[The Big Short: Inside the Doomsday Machine](https://www.amazon.com/dp/B003LSTK8G)** Michael Lewis
 
 **[Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life](https://www.amazon.com/gp/product/B00MEMMS9I)** David Perlmutter
