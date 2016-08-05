@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/dp/1617292230)** Aditya Bhargava
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/dp/1617292230)** Aditya Bhargava
+
 **[Soft Skills: The software developer's life manual](https://www.amazon.com/dp/1617292397)** John Sonmez
 
 **[The Big Short: Inside the Doomsday Machine](https://www.amazon.com/dp/B003LSTK8G)** Michael Lewis
