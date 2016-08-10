@@ -56,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Ego is the Enemy](https://www.amazon.com/dp/B015NTIXWE)** Ryan Holiday
+
 **[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/dp/1617292230)** Aditya Bhargava
 
 **[Soft Skills: The software developer's life manual](https://www.amazon.com/dp/1617292397)** John Sonmez
