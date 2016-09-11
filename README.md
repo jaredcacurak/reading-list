@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/dp/B015CKNWJI)** Brian Christian, Tom Griffiths
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/dp/B015CKNWJI)** Brian Christian, Tom Griffiths
+
 **[Ego is the Enemy](https://www.amazon.com/dp/B015NTIXWE)** Ryan Holiday
 
 **[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/dp/1617292230)** Aditya Bhargava
