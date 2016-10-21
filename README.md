@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[14](https://www.amazon.com/dp/B00898J9IE)** Peter Clines
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[14](https://www.amazon.com/dp/B00898J9IE)** Peter Clines
+
 **[A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.amazon.com/dp/B00G3L19ZU)** Barbara Oakley
 
 **[Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/dp/B015CKNWJI)** Brian Christian, Tom Griffiths
