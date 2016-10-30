@@ -18,8 +18,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
-**[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
-
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
 
 **[The Hobbit](http://www.amazon.com/dp/B0079KT81G)** J.R.R. Tolkien
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
+
 **[14](https://www.amazon.com/dp/B00898J9IE)** Peter Clines
 
 **[A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.amazon.com/dp/B00G3L19ZU)** Barbara Oakley
