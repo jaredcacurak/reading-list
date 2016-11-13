@@ -16,8 +16,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 ## Ongoing
 **[In the Beginning...Was the Command Line](https://www.amazon.com/dp/B0011GA08E)** Neal Stephenson
 
-**[Beacon 23: The Complete Novel](https://www.amazon.com/dp/B0151HYRCS)** Hugh Howey
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Beacon 23: The Complete Novel](https://www.amazon.com/dp/B0151HYRCS)** Hugh Howey
+
 **[Redshirts: A Novel with Three Codas](https://www.amazon.com/dp/B0079XPUOW)** John Scalzi
 
 **[The BFG](https://www.amazon.com/dp/B00INIXTKY)** Roald Dahl
