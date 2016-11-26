@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/dp/B001AFF25W)** Brian Tracy
-
 **[In the Beginning...Was the Command Line](https://www.amazon.com/dp/B0011GA08E)** Neal Stephenson
 
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/dp/B001AFF25W)** Brian Tracy
+
 **[Beacon 23: The Complete Novel](https://www.amazon.com/dp/B0151HYRCS)** Hugh Howey
 
 **[Redshirts: A Novel with Three Codas](https://www.amazon.com/dp/B0079XPUOW)** John Scalzi
