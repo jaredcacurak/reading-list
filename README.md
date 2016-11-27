@@ -56,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Doors of Perception](https://www.amazon.com/dp/B002LCSVB0)** Aldous Huxley
+
 **[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/dp/B001AFF25W)** Brian Tracy
 
 **[Beacon 23: The Complete Novel](https://www.amazon.com/dp/B0151HYRCS)** Hugh Howey
