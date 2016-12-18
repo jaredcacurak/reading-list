@@ -56,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Handmaid's Tale](https://www.amazon.com/dp/B003JFJHTS)** Margaret Atwood
+
 **[The Doors of Perception](https://www.amazon.com/dp/B002LCSVB0)** Aldous Huxley
 
 **[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/dp/B001AFF25W)** Brian Tracy
