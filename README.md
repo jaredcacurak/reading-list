@@ -14,6 +14,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
+**[A Series of Unfortunate Events: The Miserable Mill](https://www.amazon.com/dp/B000VYX90I)** Daniel Handler
+
 **[The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/dp/0393254593)** Michael Lewis
 
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
