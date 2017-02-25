@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[A Series of Unfortunate Events: The Miserable Mill](https://www.amazon.com/dp/B000VYX90I)** Daniel Handler
-
 **[The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/dp/0393254593)** Michael Lewis
 
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
@@ -58,6 +56,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[A Series of Unfortunate Events: The Miserable Mill](https://www.amazon.com/dp/B000VYX90I)** Daniel Handler
+
 **[We Are Legion (We Are Bob)](https://www.amazon.com/dp/B01LWAESYQ)** Dennis E. Taylor
 
 **[In the Beginning...Was the Command Line](https://www.amazon.com/dp/B0011GA08E)** Neal Stephenson
