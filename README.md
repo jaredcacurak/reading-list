@@ -54,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[The Dispatcher](https://www.amazon.com/dp/B01KKPH1NI)** John Scalzi
+
 **[The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/dp/0393254593)** Michael Lewis
 
 **[A Series of Unfortunate Events: The Miserable Mill](https://www.amazon.com/dp/B000VYX90I)** Daniel Handler
