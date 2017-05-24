@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/dp/B019MMUAAQ)** Antonio Garcia Martinez
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
@@ -56,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/dp/B019MMUAAQ)** Antonio Garcia Martinez
+
 **[The Circle](https://www.amazon.com/dp/B00EGMQIJ0)** Dave Eggers
 
 **[Armada](https://www.amazon.com/dp/B00TNDID0O)** Ernest Cline
