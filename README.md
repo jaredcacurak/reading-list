@@ -54,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Change Agent](https://www.amazon.com/dp/B01J2SU2YO)** Daniel Suarez
+
 **[Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/dp/B019MMUAAQ)** Antonio Garcia Martinez
 
 **[The Circle](https://www.amazon.com/dp/B00EGMQIJ0)** Dave Eggers
