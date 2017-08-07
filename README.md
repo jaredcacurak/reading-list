@@ -14,8 +14,6 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://www.amazon.com/High-Performance-Web-Sites-ebook/dp/B0028N4WHY)** Steve Souders
 
 ## Ongoing
-**[Run Program](https://www.amazon.com/dp/B01MXQFDAP)** Scott Meyer
-
 **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)** Brian Lonsdorf
 
 **[The Baffled Parent's Guide to Coaching Youth Soccer](http://www.amazon.com/dp/B006B7LTUG)** Bobby Clark
@@ -56,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[Run Program](https://www.amazon.com/dp/B01MXQFDAP)** Scott Meyer
+
 **[Mindset: The New Psychology of Success](https://www.amazon.com/dp/B000FCKPHG)** Carol S. Dweck
 
 **[Change Agent](https://www.amazon.com/dp/B01J2SU2YO)** Daniel Suarez
