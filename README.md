@@ -54,6 +54,8 @@ Inspired by Cory Schires's [reading](http://coryschires.com/maintaining-a-readin
 **[JavaScript Patterns](http://www.amazon.com/gp/product/B0046RERXE)** Stoyan Stefanov
 
 ## Books
+**[We Learn Nothing: Essays and Cartoons](https://www.amazon.com/dp/B0061Q5LVA)** Tim Kreider
+
 **[How To Win Friends and Influence People](https://www.amazon.com/dp/B003WEAI4E)** Dale Carnegie
 
 **[American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road](https://www.amazon.com/dp/B01L8C4WBG)** Nick Bilton
